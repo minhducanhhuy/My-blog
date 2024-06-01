@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Phát triển bản thân &#8211; Reach Your Life</title>
-	<atom:link href="https://minhducanhhuy.github.io/My-blog/category/phat-trien-ban-than/feed/" rel="self" type="application/rss+xml" />
-	<link>https://minhducanhhuy.github.io/My-blog/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>hiểu rõ chính mình, định hình tương lai, đạt được hạnh phúc</description>
 	<lastBuildDate>Fri, 02 Feb 2024 04:23:43 +0000</lastBuildDate>
 	<language>vi</language>
@@ -24,22 +24,22 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/cropped-image_2024-01-17_173413523-32x32.png</url>
+	<url>./../../../wp-content/uploads/2024/01/cropped-image_2024-01-17_173413523-32x32.png</url>
 	<title>Phát triển bản thân &#8211; Reach Your Life</title>
-	<link>https://minhducanhhuy.github.io/My-blog/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">228209872</site>	<item>
 		<title>Tư duy logic là gì ? Vai trò và phương pháp rèn luyện khả năng tư duy logic.</title>
-		<link>https://minhducanhhuy.github.io/My-blog/tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/</link>
-					<comments>https://minhducanhhuy.github.io/My-blog/tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/#comments</comments>
+		<link>./../../../tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/index.html</link>
+					<comments>./../../../tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[ReachYL]]></dc:creator>
 		<pubDate>Thu, 01 Feb 2024 05:26:49 +0000</pubDate>
 				<category><![CDATA[Phát triển bản thân]]></category>
 		<category><![CDATA[Self-growth]]></category>
-		<guid isPermaLink="false">https://minhducanhhuy.github.io/My-blog/?p=1465</guid>
+		<guid isPermaLink="false">./../../../index.html?p=1465</guid>
 
 					<description><![CDATA[tư duy logic có ảnh hưởng vô cùng lớn tới cuộc sống của chúng ta. Vậy tư duy logic là gì, vai trò và phương pháp rèn luyện tư duy logic.]]></description>
 										<content:encoded><![CDATA[
@@ -246,15 +246,15 @@
 <p>Vì thế hãy cứ nỗ lực rèn luyện, việc rèn luyện tư duy logic, các kĩ năng của bản thân cũng sẽ giúp cho bạn trở lên nhanh nhạy, tự tin giỏi giang hơn trong cuộc sống, giúp bạn rút ngắn thời gian đặt được mục tiêu của bản thân mình.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://minhducanhhuy.github.io/My-blog/tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1465</post-id>	</item>
 		<item>
 		<title>Làm sao để thấu hiểu bản thân hơn</title>
-		<link>https://minhducanhhuy.github.io/My-blog/lam-sao-de-thau-hieu-ban-than-hon/</link>
-					<comments>https://minhducanhhuy.github.io/My-blog/lam-sao-de-thau-hieu-ban-than-hon/#comments</comments>
+		<link>./../../../lam-sao-de-thau-hieu-ban-than-hon/index.html</link>
+					<comments>./../../../lam-sao-de-thau-hieu-ban-than-hon/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[ReachYL]]></dc:creator>
 		<pubDate>Sun, 07 Jan 2024 12:29:47 +0000</pubDate>
@@ -462,7 +462,7 @@
 <p>Chính vì vậy chúng ta cần phải luôn lặp lại quá trình đó để thấu hiểu bản thân hơn, khi đó ta sẽ không bao giờ lạc mất bản thân mình.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://minhducanhhuy.github.io/My-blog/lam-sao-de-thau-hieu-ban-than-hon/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../lam-sao-de-thau-hieu-ban-than-hon/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

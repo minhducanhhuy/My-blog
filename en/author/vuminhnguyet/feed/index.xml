@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Vũ Minh Nguyệt &#8211; Reach Your Life</title>
-	<atom:link href="https://minhducanhhuy.github.io/My-blog/en/author/vuminhnguyet/feed/" rel="self" type="application/rss+xml" />
-	<link>https://minhducanhhuy.github.io/My-blog/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
 	<description>hiểu rõ chính mình, định hình tương lai, đạt được hạnh phúc</description>
 	<lastBuildDate>Sun, 21 Jan 2024 10:32:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,21 +24,21 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/cropped-image_2024-01-17_173413523-32x32.png</url>
+	<url>./../../../../wp-content/uploads/2024/01/cropped-image_2024-01-17_173413523-32x32.png</url>
 	<title>Vũ Minh Nguyệt &#8211; Reach Your Life</title>
-	<link>https://minhducanhhuy.github.io/My-blog/</link>
+	<link>./../../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">228209872</site>	<item>
 		<title>4 Values that sales departments bring to you</title>
-		<link>https://minhducanhhuy.github.io/My-blog/en/4-value-that-sales-departments-bring-to-you/</link>
-					<comments>https://minhducanhhuy.github.io/My-blog/en/4-value-that-sales-departments-bring-to-you/#respond</comments>
+		<link>./../../../4-value-that-sales-departments-bring-to-you/index.html</link>
+					<comments>./../../../4-value-that-sales-departments-bring-to-you/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Vũ Minh Nguyệt]]></dc:creator>
 		<pubDate>Wed, 17 Jan 2024 15:05:37 +0000</pubDate>
 				<category><![CDATA[Finance]]></category>
-		<guid isPermaLink="false">https://minhducanhhuy.github.io/My-blog/?p=1403</guid>
+		<guid isPermaLink="false">./../../../../index.html?p=1403</guid>
 
 					<description><![CDATA[After a period of internship in the Sales of business, I have gained many values that the business department brings.
 ]]></description>
@@ -154,7 +154,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://minhducanhhuy.github.io/My-blog/en/4-value-that-sales-departments-bring-to-you/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../4-value-that-sales-departments-bring-to-you/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Các bình luận về: Tư duy logic là gì ? Vai trò và phương pháp rèn luyện khả năng tư duy logic.	</title>
-	<atom:link href="https://minhducanhhuy.github.io/My-blog/tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/feed/" rel="self" type="application/rss+xml" />
-	<link>https://minhducanhhuy.github.io/My-blog/tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>hiểu rõ chính mình, định hình tương lai, đạt được hạnh phúc</description>
 	<lastBuildDate>Fri, 02 Feb 2024 04:23:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,11 +23,11 @@
 	<item>
 		<title>
 		Bởi: Dương Minh		</title>
-		<link>https://minhducanhhuy.github.io/My-blog/tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/#comment-61</link>
+		<link>./../index.html#comment-61</link>
 
 		<dc:creator><![CDATA[Dương Minh]]></dc:creator>
 		<pubDate>Fri, 02 Feb 2024 03:39:35 +0000</pubDate>
-		<guid isPermaLink="false">https://minhducanhhuy.github.io/My-blog/?p=1465#comment-61</guid>
+		<guid isPermaLink="false">./../../index.html?p=1465#comment-61</guid>
 
 					<description><![CDATA[bài viết của bạn rất hay và sâu sắc, tôi rất thích &#060;3]]></description>
 			<content:encoded><![CDATA[<p>bài viết của bạn rất hay và sâu sắc, tôi rất thích &lt;3</p>

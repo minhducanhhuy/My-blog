@@ -1,45 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://minhducanhhuy.github.io/My-blog/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://minhducanhhuy.github.io/My-blog/</loc>
+		<loc>./index.html</loc>
 		<lastmod>2024-02-20T02:58:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://minhducanhhuy.github.io/My-blog/en/what-is-logical-thinking-the-role-and-methods-of-training-logical-thinking-ability/</loc>
+		<loc>./en/what-is-logical-thinking-the-role-and-methods-of-training-logical-thinking-ability/index.html</loc>
 		<lastmod>2024-02-20T02:58:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://minhducanhhuy.github.io/My-blog/tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/</loc>
+		<loc>./tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/index.html</loc>
 		<lastmod>2024-02-02T04:23:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://minhducanhhuy.github.io/My-blog/lam-sao-de-thau-hieu-ban-than-hon/</loc>
+		<loc>./lam-sao-de-thau-hieu-ban-than-hon/index.html</loc>
 		<lastmod>2024-02-02T03:48:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://minhducanhhuy.github.io/My-blog/dinh-nghia-dich-thuc-cua-su-giau-co/</loc>
+		<loc>./dinh-nghia-dich-thuc-cua-su-giau-co/index.html</loc>
 		<lastmod>2024-01-24T05:35:15+00:00</lastmod>
 		<image:image>
-			<image:loc>https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/image-3.png</image:loc>
+			<image:loc>./wp-content/uploads/2024/01/image-3.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://minhducanhhuy.github.io/My-blog/voi-nhung-gia-tri-ma-phong-kinh-doanh-mang-lai-tai-sao-ban-chua-thu/</loc>
+		<loc>./voi-nhung-gia-tri-ma-phong-kinh-doanh-mang-lai-tai-sao-ban-chua-thu/index.html</loc>
 		<lastmod>2024-01-22T10:16:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://minhducanhhuy.github.io/My-blog/en/how-to-understand-yourself-better/</loc>
+		<loc>./en/how-to-understand-yourself-better/index.html</loc>
 		<lastmod>2024-01-21T18:19:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://minhducanhhuy.github.io/My-blog/en/4-value-that-sales-departments-bring-to-you/</loc>
+		<loc>./en/4-value-that-sales-departments-bring-to-you/index.html</loc>
 		<lastmod>2024-01-21T10:32:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://minhducanhhuy.github.io/My-blog/en/what-is-the-true-meaning-of-wealth/</loc>
+		<loc>./en/what-is-the-true-meaning-of-wealth/index.html</loc>
 		<lastmod>2024-01-20T17:49:01+00:00</lastmod>
 		<image:image>
-			<image:loc>https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/image-3.png</image:loc>
+			<image:loc>./wp-content/uploads/2024/01/image-3.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
