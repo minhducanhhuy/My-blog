@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: About	</title>
-	<atom:link href="https://minhducanhhuy.github.io/My-blog/en/about/feed/" rel="self" type="application/rss+xml" />
-	<link>https://minhducanhhuy.github.io/My-blog/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>hiểu rõ chính mình, định hình tương lai, đạt được hạnh phúc</description>
 	<lastBuildDate>Mon, 22 Jan 2024 11:36:00 +0000</lastBuildDate>
 	<sy:updatePeriod>

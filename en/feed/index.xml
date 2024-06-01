@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Reach Your Life</title>
-	<atom:link href="https://minhducanhhuy.github.io/My-blog/en/feed/" rel="self" type="application/rss+xml" />
-	<link>https://minhducanhhuy.github.io/My-blog/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>hiểu rõ chính mình, định hình tương lai, đạt được hạnh phúc</description>
 	<lastBuildDate>Tue, 20 Feb 2024 02:58:01 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,21 +24,21 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/cropped-image_2024-01-17_173413523-32x32.png</url>
+	<url>./../../wp-content/uploads/2024/01/cropped-image_2024-01-17_173413523-32x32.png</url>
 	<title>Reach Your Life</title>
-	<link>https://minhducanhhuy.github.io/My-blog/</link>
+	<link>./../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">228209872</site>	<item>
 		<title>What is logical thinking? The role and methods of training logical thinking ability.</title>
-		<link>https://minhducanhhuy.github.io/My-blog/en/what-is-logical-thinking-the-role-and-methods-of-training-logical-thinking-ability/</link>
-					<comments>https://minhducanhhuy.github.io/My-blog/en/what-is-logical-thinking-the-role-and-methods-of-training-logical-thinking-ability/#respond</comments>
+		<link>./../what-is-logical-thinking-the-role-and-methods-of-training-logical-thinking-ability/index.html</link>
+					<comments>./../what-is-logical-thinking-the-role-and-methods-of-training-logical-thinking-ability/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[ReachYL]]></dc:creator>
 		<pubDate>Tue, 20 Feb 2024 02:57:56 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://minhducanhhuy.github.io/My-blog/?p=1663</guid>
+		<guid isPermaLink="false">./../../index.html?p=1663</guid>
 
 					<description><![CDATA[One of the most special things that sets humans apart from other animals is that we not only act on instinct, but also rely on the ability to think and perceive. In real life, all of our activities are through the thinking of the brain. We always think, plan when starting to do something. From &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -251,22 +251,22 @@
     <span class="pld-like-count-wrap pld-count-wrap">1    </span>
 </div></div>]]></content:encoded>
 					
-					<wfw:commentRss>https://minhducanhhuy.github.io/My-blog/en/what-is-logical-thinking-the-role-and-methods-of-training-logical-thinking-ability/feed/</wfw:commentRss>
+					<wfw:commentRss>./../what-is-logical-thinking-the-role-and-methods-of-training-logical-thinking-ability/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1663</post-id>	</item>
 		<item>
 		<title>What is the True Meaning of Wealth?</title>
-		<link>https://minhducanhhuy.github.io/My-blog/en/what-is-the-true-meaning-of-wealth/</link>
-					<comments>https://minhducanhhuy.github.io/My-blog/en/what-is-the-true-meaning-of-wealth/#respond</comments>
+		<link>./../what-is-the-true-meaning-of-wealth/index.html</link>
+					<comments>./../what-is-the-true-meaning-of-wealth/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[ReachYL]]></dc:creator>
 		<pubDate>Wed, 17 Jan 2024 19:42:21 +0000</pubDate>
 				<category><![CDATA[Life]]></category>
 		<category><![CDATA[Finance]]></category>
 		<category><![CDATA[Self-growth]]></category>
-		<guid isPermaLink="false">https://minhducanhhuy.github.io/My-blog/?p=1443</guid>
+		<guid isPermaLink="false">./../../index.html?p=1443</guid>
 
 					<description><![CDATA[The reason why most people never achieve "wealth" is because they don't truly understand the meaning of "wealth". So what is the true meaning.....]]></description>
 										<content:encoded><![CDATA[
@@ -290,7 +290,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1024" height="674" src="https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/image-3.png" alt="" class="wp-image-1355" srcset="https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/image-3.png 1024w, https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/image-3-300x197.png 300w, https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/image-3-768x506.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1024" height="674" src="./../../wp-content/uploads/2024/01/image-3.png" alt="" class="wp-image-1355" srcset="./../../wp-content/uploads/2024/01/image-3.png 1024w, ./../../wp-content/uploads/2024/01/image-3-300x197.png 300w, ./../../wp-content/uploads/2024/01/image-3-768x506.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -411,21 +411,21 @@
     <span class="pld-like-count-wrap pld-count-wrap">    </span>
 </div></div>]]></content:encoded>
 					
-					<wfw:commentRss>https://minhducanhhuy.github.io/My-blog/en/what-is-the-true-meaning-of-wealth/feed/</wfw:commentRss>
+					<wfw:commentRss>./../what-is-the-true-meaning-of-wealth/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1443</post-id>	</item>
 		<item>
 		<title>How to understand yourself better</title>
-		<link>https://minhducanhhuy.github.io/My-blog/en/how-to-understand-yourself-better/</link>
-					<comments>https://minhducanhhuy.github.io/My-blog/en/how-to-understand-yourself-better/#respond</comments>
+		<link>./../how-to-understand-yourself-better/index.html</link>
+					<comments>./../how-to-understand-yourself-better/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[ReachYL]]></dc:creator>
 		<pubDate>Wed, 17 Jan 2024 19:16:09 +0000</pubDate>
 				<category><![CDATA[Life]]></category>
 		<category><![CDATA[Self-growth]]></category>
-		<guid isPermaLink="false">https://minhducanhhuy.github.io/My-blog/?p=1438</guid>
+		<guid isPermaLink="false">./../../index.html?p=1438</guid>
 
 					<description><![CDATA[I have had a period of feeling lost in life because I didn&#8217;t know what my purpose was. During that time, I was constantly overthinking, which led to frustration, exhaustion, mental depletion, and a lack of energy to do anything else. Day after day, I find myself immersed in thoughts about myself, not knowing what &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -632,20 +632,20 @@
     <span class="pld-like-count-wrap pld-count-wrap">    </span>
 </div></div>]]></content:encoded>
 					
-					<wfw:commentRss>https://minhducanhhuy.github.io/My-blog/en/how-to-understand-yourself-better/feed/</wfw:commentRss>
+					<wfw:commentRss>./../how-to-understand-yourself-better/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1438</post-id>	</item>
 		<item>
 		<title>4 Values that sales departments bring to you</title>
-		<link>https://minhducanhhuy.github.io/My-blog/en/4-value-that-sales-departments-bring-to-you/</link>
-					<comments>https://minhducanhhuy.github.io/My-blog/en/4-value-that-sales-departments-bring-to-you/#respond</comments>
+		<link>./../4-value-that-sales-departments-bring-to-you/index.html</link>
+					<comments>./../4-value-that-sales-departments-bring-to-you/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Vũ Minh Nguyệt]]></dc:creator>
 		<pubDate>Wed, 17 Jan 2024 15:05:37 +0000</pubDate>
 				<category><![CDATA[Finance]]></category>
-		<guid isPermaLink="false">https://minhducanhhuy.github.io/My-blog/?p=1403</guid>
+		<guid isPermaLink="false">./../../index.html?p=1403</guid>
 
 					<description><![CDATA[After a period of internship in the Sales of business, I have gained many values that the business department brings.
 ]]></description>
@@ -767,7 +767,7 @@
     <span class="pld-like-count-wrap pld-count-wrap">1    </span>
 </div></div>]]></content:encoded>
 					
-					<wfw:commentRss>https://minhducanhhuy.github.io/My-blog/en/4-value-that-sales-departments-bring-to-you/feed/</wfw:commentRss>
+					<wfw:commentRss>./../4-value-that-sales-departments-bring-to-you/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
