@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Reach Your Life</title>
-	<atom:link href="/en/category/uncategorized-en/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://minhducanhhuy.github.io/My-blog/en/category/uncategorized-en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://minhducanhhuy.github.io/My-blog/</link>
 	<description>hiểu rõ chính mình, định hình tương lai, đạt được hạnh phúc</description>
 	<lastBuildDate>Tue, 20 Feb 2024 02:58:01 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,21 +24,21 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/01/cropped-image_2024-01-17_173413523-32x32.png</url>
+	<url>https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/cropped-image_2024-01-17_173413523-32x32.png</url>
 	<title>Uncategorized &#8211; Reach Your Life</title>
-	<link>/</link>
+	<link>https://minhducanhhuy.github.io/My-blog/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">228209872</site>	<item>
 		<title>What is logical thinking? The role and methods of training logical thinking ability.</title>
-		<link>/en/what-is-logical-thinking-the-role-and-methods-of-training-logical-thinking-ability/</link>
-					<comments>/en/what-is-logical-thinking-the-role-and-methods-of-training-logical-thinking-ability/#respond</comments>
+		<link>https://minhducanhhuy.github.io/My-blog/en/what-is-logical-thinking-the-role-and-methods-of-training-logical-thinking-ability/</link>
+					<comments>https://minhducanhhuy.github.io/My-blog/en/what-is-logical-thinking-the-role-and-methods-of-training-logical-thinking-ability/#respond</comments>
 		
 		<dc:creator><![CDATA[ReachYL]]></dc:creator>
 		<pubDate>Tue, 20 Feb 2024 02:57:56 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1663</guid>
+		<guid isPermaLink="false">https://minhducanhhuy.github.io/My-blog/?p=1663</guid>
 
 					<description><![CDATA[One of the most special things that sets humans apart from other animals is that we not only act on instinct, but also rely on the ability to think and perceive. In real life, all of our activities are through the thinking of the brain. We always think, plan when starting to do something. From &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -251,7 +251,7 @@
     <span class="pld-like-count-wrap pld-count-wrap">1    </span>
 </div></div>]]></content:encoded>
 					
-					<wfw:commentRss>/en/what-is-logical-thinking-the-role-and-methods-of-training-logical-thinking-ability/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhducanhhuy.github.io/My-blog/en/what-is-logical-thinking-the-role-and-methods-of-training-logical-thinking-ability/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

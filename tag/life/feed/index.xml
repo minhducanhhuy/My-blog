@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Life &#8211; Reach Your Life</title>
-	<atom:link href="/tag/life/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://minhducanhhuy.github.io/My-blog/tag/life/feed/" rel="self" type="application/rss+xml" />
+	<link>https://minhducanhhuy.github.io/My-blog/</link>
 	<description>hiểu rõ chính mình, định hình tương lai, đạt được hạnh phúc</description>
 	<lastBuildDate>Fri, 02 Feb 2024 03:48:16 +0000</lastBuildDate>
 	<language>vi</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/01/cropped-image_2024-01-17_173413523-32x32.png</url>
+	<url>https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/cropped-image_2024-01-17_173413523-32x32.png</url>
 	<title>Life &#8211; Reach Your Life</title>
-	<link>/</link>
+	<link>https://minhducanhhuy.github.io/My-blog/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">228209872</site>	<item>
 		<title>Làm sao để thấu hiểu bản thân hơn</title>
-		<link>/lam-sao-de-thau-hieu-ban-than-hon/</link>
-					<comments>/lam-sao-de-thau-hieu-ban-than-hon/#comments</comments>
+		<link>https://minhducanhhuy.github.io/My-blog/lam-sao-de-thau-hieu-ban-than-hon/</link>
+					<comments>https://minhducanhhuy.github.io/My-blog/lam-sao-de-thau-hieu-ban-than-hon/#comments</comments>
 		
 		<dc:creator><![CDATA[ReachYL]]></dc:creator>
 		<pubDate>Sun, 07 Jan 2024 12:29:47 +0000</pubDate>
@@ -247,7 +247,7 @@
     <span class="pld-like-count-wrap pld-count-wrap">6    </span>
 </div></div>]]></content:encoded>
 					
-					<wfw:commentRss>/lam-sao-de-thau-hieu-ban-than-hon/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhducanhhuy.github.io/My-blog/lam-sao-de-thau-hieu-ban-than-hon/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

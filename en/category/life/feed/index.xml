@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Life &#8211; Reach Your Life</title>
-	<atom:link href="/en/category/life/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://minhducanhhuy.github.io/My-blog/en/category/life/feed/" rel="self" type="application/rss+xml" />
+	<link>https://minhducanhhuy.github.io/My-blog/</link>
 	<description>hiểu rõ chính mình, định hình tương lai, đạt được hạnh phúc</description>
 	<lastBuildDate>Sun, 21 Jan 2024 18:19:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,23 +24,23 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/01/cropped-image_2024-01-17_173413523-32x32.png</url>
+	<url>https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/cropped-image_2024-01-17_173413523-32x32.png</url>
 	<title>Life &#8211; Reach Your Life</title>
-	<link>/</link>
+	<link>https://minhducanhhuy.github.io/My-blog/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">228209872</site>	<item>
 		<title>What is the True Meaning of Wealth?</title>
-		<link>/en/what-is-the-true-meaning-of-wealth/</link>
-					<comments>/en/what-is-the-true-meaning-of-wealth/#respond</comments>
+		<link>https://minhducanhhuy.github.io/My-blog/en/what-is-the-true-meaning-of-wealth/</link>
+					<comments>https://minhducanhhuy.github.io/My-blog/en/what-is-the-true-meaning-of-wealth/#respond</comments>
 		
 		<dc:creator><![CDATA[ReachYL]]></dc:creator>
 		<pubDate>Wed, 17 Jan 2024 19:42:21 +0000</pubDate>
 				<category><![CDATA[Life]]></category>
 		<category><![CDATA[Finance]]></category>
 		<category><![CDATA[Self-growth]]></category>
-		<guid isPermaLink="false">/?p=1443</guid>
+		<guid isPermaLink="false">https://minhducanhhuy.github.io/My-blog/?p=1443</guid>
 
 					<description><![CDATA[The reason why most people never achieve "wealth" is because they don't truly understand the meaning of "wealth". So what is the true meaning.....]]></description>
 										<content:encoded><![CDATA[
@@ -64,7 +64,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1024" height="674" src="/wp-content/uploads/2024/01/image-3.png" alt="" class="wp-image-1355" srcset="/wp-content/uploads/2024/01/image-3.png 1024w, /wp-content/uploads/2024/01/image-3-300x197.png 300w, /wp-content/uploads/2024/01/image-3-768x506.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1024" height="674" src="https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/image-3.png" alt="" class="wp-image-1355" srcset="https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/image-3.png 1024w, https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/image-3-300x197.png 300w, https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/image-3-768x506.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -185,21 +185,21 @@
     <span class="pld-like-count-wrap pld-count-wrap">    </span>
 </div></div>]]></content:encoded>
 					
-					<wfw:commentRss>/en/what-is-the-true-meaning-of-wealth/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhducanhhuy.github.io/My-blog/en/what-is-the-true-meaning-of-wealth/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1443</post-id>	</item>
 		<item>
 		<title>How to understand yourself better</title>
-		<link>/en/how-to-understand-yourself-better/</link>
-					<comments>/en/how-to-understand-yourself-better/#respond</comments>
+		<link>https://minhducanhhuy.github.io/My-blog/en/how-to-understand-yourself-better/</link>
+					<comments>https://minhducanhhuy.github.io/My-blog/en/how-to-understand-yourself-better/#respond</comments>
 		
 		<dc:creator><![CDATA[ReachYL]]></dc:creator>
 		<pubDate>Wed, 17 Jan 2024 19:16:09 +0000</pubDate>
 				<category><![CDATA[Life]]></category>
 		<category><![CDATA[Self-growth]]></category>
-		<guid isPermaLink="false">/?p=1438</guid>
+		<guid isPermaLink="false">https://minhducanhhuy.github.io/My-blog/?p=1438</guid>
 
 					<description><![CDATA[I have had a period of feeling lost in life because I didn&#8217;t know what my purpose was. During that time, I was constantly overthinking, which led to frustration, exhaustion, mental depletion, and a lack of energy to do anything else. Day after day, I find myself immersed in thoughts about myself, not knowing what &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -406,7 +406,7 @@
     <span class="pld-like-count-wrap pld-count-wrap">    </span>
 </div></div>]]></content:encoded>
 					
-					<wfw:commentRss>/en/how-to-understand-yourself-better/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhducanhhuy.github.io/My-blog/en/how-to-understand-yourself-better/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Bình luận cho Reach Your Life	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://minhducanhhuy.github.io/My-blog/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://minhducanhhuy.github.io/My-blog/</link>
 	<description>hiểu rõ chính mình, định hình tương lai, đạt được hạnh phúc</description>
 	<lastBuildDate>Fri, 02 Feb 2024 04:23:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,11 +23,11 @@
 	<item>
 		<title>
 		Bình luận cho Tư duy logic là gì ? Vai trò và phương pháp rèn luyện khả năng tư duy logic. bởi Dương Minh		</title>
-		<link>/tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/#comment-61</link>
+		<link>https://minhducanhhuy.github.io/My-blog/tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/#comment-61</link>
 
 		<dc:creator><![CDATA[Dương Minh]]></dc:creator>
 		<pubDate>Fri, 02 Feb 2024 03:39:35 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1465#comment-61</guid>
+		<guid isPermaLink="false">https://minhducanhhuy.github.io/My-blog/?p=1465#comment-61</guid>
 
 					<description><![CDATA[bài viết của bạn rất hay và sâu sắc, tôi rất thích &#060;3]]></description>
 			<content:encoded><![CDATA[<p>bài viết của bạn rất hay và sâu sắc, tôi rất thích &lt;3</p>
@@ -37,7 +37,7 @@
 		<item>
 		<title>
 		Bình luận cho Làm sao để thấu hiểu bản thân hơn bởi Tạ Minh Kiên		</title>
-		<link>/lam-sao-de-thau-hieu-ban-than-hon/#comment-60</link>
+		<link>https://minhducanhhuy.github.io/My-blog/lam-sao-de-thau-hieu-ban-than-hon/#comment-60</link>
 
 		<dc:creator><![CDATA[Tạ Minh Kiên]]></dc:creator>
 		<pubDate>Mon, 22 Jan 2024 15:30:57 +0000</pubDate>

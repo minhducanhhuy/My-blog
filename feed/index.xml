@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Reach Your Life</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://minhducanhhuy.github.io/My-blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://minhducanhhuy.github.io/My-blog/</link>
 	<description>hiểu rõ chính mình, định hình tương lai, đạt được hạnh phúc</description>
 	<lastBuildDate>Fri, 02 Feb 2024 04:23:43 +0000</lastBuildDate>
 	<language>vi</language>
@@ -24,22 +24,22 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/01/cropped-image_2024-01-17_173413523-32x32.png</url>
+	<url>https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/cropped-image_2024-01-17_173413523-32x32.png</url>
 	<title>Reach Your Life</title>
-	<link>/</link>
+	<link>https://minhducanhhuy.github.io/My-blog/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">228209872</site>	<item>
 		<title>Tư duy logic là gì ? Vai trò và phương pháp rèn luyện khả năng tư duy logic.</title>
-		<link>/tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/</link>
-					<comments>/tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/#comments</comments>
+		<link>https://minhducanhhuy.github.io/My-blog/tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/</link>
+					<comments>https://minhducanhhuy.github.io/My-blog/tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/#comments</comments>
 		
 		<dc:creator><![CDATA[ReachYL]]></dc:creator>
 		<pubDate>Thu, 01 Feb 2024 05:26:49 +0000</pubDate>
 				<category><![CDATA[Phát triển bản thân]]></category>
 		<category><![CDATA[Self-growth]]></category>
-		<guid isPermaLink="false">/?p=1465</guid>
+		<guid isPermaLink="false">https://minhducanhhuy.github.io/My-blog/?p=1465</guid>
 
 					<description><![CDATA[tư duy logic có ảnh hưởng vô cùng lớn tới cuộc sống của chúng ta. Vậy tư duy logic là gì, vai trò và phương pháp rèn luyện tư duy logic.]]></description>
 										<content:encoded><![CDATA[
@@ -252,15 +252,15 @@
     <span class="pld-like-count-wrap pld-count-wrap">1    </span>
 </div></div>]]></content:encoded>
 					
-					<wfw:commentRss>/tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhducanhhuy.github.io/My-blog/tu-duy-logic-la-gi-vai-tro-va-phuong-phap-ren-luyen-kha-nang-tu-duy-logic/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1465</post-id>	</item>
 		<item>
 		<title>Làm sao để thấu hiểu bản thân hơn</title>
-		<link>/lam-sao-de-thau-hieu-ban-than-hon/</link>
-					<comments>/lam-sao-de-thau-hieu-ban-than-hon/#comments</comments>
+		<link>https://minhducanhhuy.github.io/My-blog/lam-sao-de-thau-hieu-ban-than-hon/</link>
+					<comments>https://minhducanhhuy.github.io/My-blog/lam-sao-de-thau-hieu-ban-than-hon/#comments</comments>
 		
 		<dc:creator><![CDATA[ReachYL]]></dc:creator>
 		<pubDate>Sun, 07 Jan 2024 12:29:47 +0000</pubDate>
@@ -474,15 +474,15 @@
     <span class="pld-like-count-wrap pld-count-wrap">6    </span>
 </div></div>]]></content:encoded>
 					
-					<wfw:commentRss>/lam-sao-de-thau-hieu-ban-than-hon/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhducanhhuy.github.io/My-blog/lam-sao-de-thau-hieu-ban-than-hon/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1161</post-id>	</item>
 		<item>
 		<title>4 giá trị mà bộ phận kinh doanh mang lại cho bạn</title>
-		<link>/voi-nhung-gia-tri-ma-phong-kinh-doanh-mang-lai-tai-sao-ban-chua-thu/</link>
-					<comments>/voi-nhung-gia-tri-ma-phong-kinh-doanh-mang-lai-tai-sao-ban-chua-thu/#respond</comments>
+		<link>https://minhducanhhuy.github.io/My-blog/voi-nhung-gia-tri-ma-phong-kinh-doanh-mang-lai-tai-sao-ban-chua-thu/</link>
+					<comments>https://minhducanhhuy.github.io/My-blog/voi-nhung-gia-tri-ma-phong-kinh-doanh-mang-lai-tai-sao-ban-chua-thu/#respond</comments>
 		
 		<dc:creator><![CDATA[ReachYL]]></dc:creator>
 		<pubDate>Fri, 05 Jan 2024 13:58:34 +0000</pubDate>
@@ -632,15 +632,15 @@
     <span class="pld-like-count-wrap pld-count-wrap">1    </span>
 </div></div>]]></content:encoded>
 					
-					<wfw:commentRss>/voi-nhung-gia-tri-ma-phong-kinh-doanh-mang-lai-tai-sao-ban-chua-thu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhducanhhuy.github.io/My-blog/voi-nhung-gia-tri-ma-phong-kinh-doanh-mang-lai-tai-sao-ban-chua-thu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">125</post-id>	</item>
 		<item>
 		<title>Định nghĩa đích thực của sự &#8220;giàu có&#8221;</title>
-		<link>/dinh-nghia-dich-thuc-cua-su-giau-co/</link>
-					<comments>/dinh-nghia-dich-thuc-cua-su-giau-co/#respond</comments>
+		<link>https://minhducanhhuy.github.io/My-blog/dinh-nghia-dich-thuc-cua-su-giau-co/</link>
+					<comments>https://minhducanhhuy.github.io/My-blog/dinh-nghia-dich-thuc-cua-su-giau-co/#respond</comments>
 		
 		<dc:creator><![CDATA[ReachYL]]></dc:creator>
 		<pubDate>Tue, 02 Jan 2024 11:00:43 +0000</pubDate>
@@ -671,7 +671,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1024" height="674" src="/wp-content/uploads/2024/01/image-3.png" alt="" class="wp-image-1355" srcset="/wp-content/uploads/2024/01/image-3.png 1024w, /wp-content/uploads/2024/01/image-3-300x197.png 300w, /wp-content/uploads/2024/01/image-3-768x506.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1024" height="674" src="https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/image-3.png" alt="" class="wp-image-1355" srcset="https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/image-3.png 1024w, https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/image-3-300x197.png 300w, https://minhducanhhuy.github.io/My-blog/wp-content/uploads/2024/01/image-3-768x506.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -792,7 +792,7 @@
     <span class="pld-like-count-wrap pld-count-wrap">2    </span>
 </div></div>]]></content:encoded>
 					
-					<wfw:commentRss>/dinh-nghia-dich-thuc-cua-su-giau-co/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhducanhhuy.github.io/My-blog/dinh-nghia-dich-thuc-cua-su-giau-co/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
